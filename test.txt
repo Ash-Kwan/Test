@@ -5,7 +5,7 @@ Green
 Yellow
 
 Maroon
-
+Indigo
 
 Dog
 Cat
