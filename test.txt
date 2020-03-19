@@ -2,7 +2,7 @@ This is a test file
 
 Orange
 Green
-Yellow Pink
+Yellow
 Indigo
 
 
